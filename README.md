@@ -18,7 +18,7 @@ Now is archived, but you can find [videos on YouTube](https://www.youtube.com/pl
 
 ## Universal scalability law
 
-(http://www.perfdynamics.com/Manifesto/USLscalability.html#njg08)
+http://www.perfdynamics.com/Manifesto/USLscalability.html
 
 ## Resources in different languages
 
