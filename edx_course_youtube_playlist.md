@@ -3,6 +3,8 @@ Queuing Theory: from Markov Chains to Multi-Server Systems
 
 https://courses.edx.org/courses/course-v1:IMTx+CS101+3T2019/course/
 
+[YouTube playlist](https://www.youtube.com/playlist?list=PLMdIPWLiV18eG7J4UlsyBAN88m7vfv29h)
+
 ## Youtube playlist table of contents (Work in progress)
 
 * Week 1. Introduction to queuing theory

@@ -5,7 +5,7 @@ Queuing theory
 
 [edX: Queuing Theory: from Markov Chains to Multi-Server Systems (2019)](https://courses.edx.org/courses/course-v1:IMTx+CS101+3T2019/course/)
 
-Now is archived, but you can find [videos on YouTube](https://www.youtube.com/playlist?list=PLMdIPWLiV18eG7J4UlsyBAN88m7vfv29h)
+Now is archived, but you can find [videos on YouTube](edx_course_youtube_playlist.md)
 
 [Markov chain and queue theory](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Constantin.pdf)
 
